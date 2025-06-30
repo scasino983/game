@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PogApp</string>
+    <string name="player_score">Player Score: %1$d</string>
+    <string name="ai_score">AI Score: %1$d</string>
+    <string name="player_pogs">Player Pogs: %1$d</string>
+    <string name="ai_pogs">AI Pogs: %1$d</string>
+    <string name="pogs_in_stack">Pogs in Stack: %1$d</string>
+    <string name="action_button_throw">Throw Slammer</string>
+    <string name="action_button_start_round">Start New Round</string>
+    <string name="action_button_start_match">Start New Match</string>
+    <string name="game_message_player_turn">Player\'s Turn</string>
+    <string name="game_message_ai_turn">AI\'s Turn</string>
+    <string name="game_message_player_wins_round">Player wins the round!</string>
+    <string name="game_message_ai_wins_round">AI wins the round!</string>
+    <string name="game_message_round_tie">Round is a tie!</string>
+    <string name="game_message_player_wins_match">Player wins the match!</string>
+    <string name="game_message_ai_wins_match">AI wins the match!</string>
+    <string name="game_message_match_tie">Match is a tie! (This shouldn\'t happen in best of 5)</string>
+</resources>
