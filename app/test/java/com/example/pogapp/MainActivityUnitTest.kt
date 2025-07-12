@@ -15,7 +15,6 @@ import java.lang.reflect.Field
 import java.lang.reflect.Method
 
 @RunWith(RobolectricTestRunner::class)
-@Config(sdk = [Config.OLDEST_SDK]) // You can specify SDK levels if needed
 class MainActivityUnitTest {
 
     private lateinit var activity: MainActivity

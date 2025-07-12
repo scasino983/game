@@ -114,6 +114,7 @@ lint-results-*.xml
 
 # Play Store files
 *.aab
+local.properties
 
 # Ktor
 .env
